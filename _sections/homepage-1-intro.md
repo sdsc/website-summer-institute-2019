@@ -30,8 +30,8 @@ cta:
 
 <img src="/img/bowtie-site-template-badge-w.png" style="width:150px;margin:30px auto 20px;">
 
-# SDSCSummer Institute 2017
+# SDSC Summer Institute 2017
 
-### 1 week of classes on all aspects of Supercoputing and Data Sciencee toAccelerate your path from Data to Discovery
+### 1 week of classes on all aspects of Supercomputing and Data Science to Accelerate your path from Data to Discovery
 
 &nbsp;
