@@ -28,8 +28,6 @@ cta:
   subtext: null
 ---
 
-<img src="/img/SDSClogo-plusname-white.png" style="width:150px;margin:30px auto 20px;">
-
 # SDSC Summer Institute 2017
 
 ### 1 week of classes on all aspects of Supercomputing and Data Science to Accelerate your path from Data to Discovery
