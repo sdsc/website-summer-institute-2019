@@ -28,7 +28,7 @@ cta:
   subtext: null
 ---
 
-<img src="/img/bowtie-site-template-badge-w.png" style="width:150px;margin:30px auto 20px;">
+<img src="/img/SDSClogo-plusname-white.png" style="width:150px;margin:30px auto 20px;">
 
 # SDSC Summer Institute 2017
 
