@@ -21,7 +21,7 @@ style:
 
 cta:
   headline: 'Interested in Speaking at an Event?'
-  btnText: Apply to Speak
+  btnText: Apply
   btnType: btn-default
   btnLink: /speak/
   subtext: null
