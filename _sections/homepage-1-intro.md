@@ -9,7 +9,7 @@ style:
   class: 'jumbotron bgclear'
   media:
     img:
-      url_path: /img/backgrounds/event-meeting.jpg
+      url_path: /img/backgrounds/comet.jpg
       pattern: false
       parallax: false
       overlay: dark
