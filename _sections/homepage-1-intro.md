@@ -30,8 +30,8 @@ cta:
 
 <img src="/img/bowtie-site-template-badge-w.png" style="width:150px;margin:30px auto 20px;">
 
-# Event Website
+# SDSCSummer Institute 2017
 
-### ⋈ BowTie sites are fast, safe, and require no maintenance or upgrades.
+### 1 week of classes on all aspects of Supercoputing and Data Sciencee toAccelerate your path from Data to Discovery
 
 &nbsp;
