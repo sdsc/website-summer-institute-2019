@@ -28,8 +28,12 @@ cta:
 ---
 
 
-# Speak at an Upcoming Event
+# Application to the SDSC Summer Institute 2017
 
-### Apply Today
+### Deadlines
+
+* Applications will be accepted: through Friday, May 6, 2016 Extended through Monday, May 9, 2016
+* Applicants will be notified of status by: Friday, May 27, 2016
+* Accepted applicants are asked to confirm attendance by registering no later than: Friday, June 10, 2016
 
 &nbsp;
