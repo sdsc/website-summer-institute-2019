@@ -1,8 +1,7 @@
 ---
 location: 'logistics'
 head:
-  title: 'SDSC Summer Institute Logistics'
-  subtitle: 'Directions, accomodations, general organization'
+  title: 'Logistics'
 style:
   id: 'Logistics'
   class:
