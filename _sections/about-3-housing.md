@@ -38,14 +38,14 @@ There are many hotel options surrounding UC San Diego and SDSC. The few listed b
 
 * [Estancia La Jolla Hotel and Spa](http://estancialajolla.com/), La Jolla Cove
 * 9700 N. Torrey Pines Road, La Jolla, CA 92037
-* (858) 550-1000
+* `(858) 550-1000`
 
 * [Sheraton La Jolla Hotel](http://www.sheratonlajolla.com/ucsd), Torrey Pines
 * 3299 Holiday Ct., La Jolla, CA 92037
-* (858) 453-5500
-* (800) 345-9995
+* `(858) 453-5500`
+* `(800) 345-9995`
 
 * [The Residence Inn](http://www.marriott.com/hotels/travel/lajca-residence-inn-san-diego-la-jolla/)
 * 8901 Gilman Drive, La Jolla, CA 92037
-* (858) 587-1770
-* (800) 331-3131
+* `(858) 587-1770`
+* `(800) 331-3131`
