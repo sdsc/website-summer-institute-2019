@@ -25,7 +25,7 @@ theme:
     country:  USA
     phone:    555-123-4567
     latlng:   '39.7584972,-105.0077574,20.25z' # (e.g. '39.733536,-104.992611')
-    twitter:  twitter               # (e.g. 'twitter')
+    twitter:  sdsc_ucsd               # (e.g. 'twitter')
     facebook: facebook              # (e.g. 'facebook')
     github:                         # (e.g. 'github')
     instagram:                      # (e.g. 'instagram')

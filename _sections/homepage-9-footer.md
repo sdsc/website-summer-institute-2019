@@ -25,7 +25,7 @@ cta:
 
 <div class="col-sm-7">
     <h4 class="text-left">Contact Us</h4>
-    {% include widgets/contact-form.html email="sdscsi@sdsc.edu"%}
+    {% include widgets/contact-form.html email="zonca@sdsc.edu"%}
 </div>
 
 <div class="col-sm-5">
