@@ -1,10 +1,10 @@
 ---
-location: 'about'
+location: 'logistics'
 head:
-  title: 'About This Template'
-  subtitle: 'This is the About Page'
+  title: 'SDSC Summer Institute Logistics'
+  subtitle: 'Directions, accomodations, general organization'
 style:
-  id: 'About'
+  id: 'Logistics'
   class:
   background_color:  
 cta:
@@ -16,21 +16,37 @@ cta:
 
 ---
 
-Welcome to your [BowTie](https://bowtie.io)  Event Site. This site is a template. Quickly create standalone event pages, post blogs, and register participants using Jekyll. This page is generated from `about.md` in your root directory. 
+### Location, directions and parking
 
-For more information, read the our _Getting Started_ series:
-​
+```
+University of California, San Diego
+San Diego Supercomputer Center (SDSC)
+10100 Hopkins Drive, La Jolla, CA 92093
+```
 
-**Getting Started with BowTie:**
-​
+San Diego Supercomputer Center's Auditorium E-B212 located on the ground floor of SDSC's east entrance, located just off the driveway on Hopkins Dr, close to the Hopkins Parking Structure, Northeast end of UC San Diego campus.
+* [Google maps exact location](https://www.google.com/maps/place/32%C2%B053'04.0%22N+117%C2%B014'20.9%22W/@32.884443,-117.2413197,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.884443!4d-117.239131)
 
-  - [Build a Landing Page in 5 minutes](https://bowtie.io/help/building-static-website-with-jekyll/)
-  - [Using the BowTie Collection Editor](https://bowtie.io/help/working-with-jekyll-collections-bowtie/)
-  - [Blogging with BowTie](https://bowtie.io/help/blogging-with-bowtie/)
-  - [Customizing and Styling BowTie frontend content](https://bowtie.io/help/style-customize-bowtie-frontend/)
-  - [Initial Configuration](https://bowtie.io/help/bowtie-site-configuration/)
-  - [Launch a simple donation site](https://bowtie.io/help/static-donation-site-with-stripe/)
-  - [Build a website with a pay wall](https://bowtie.io/help/jekyll-site-with-paywall/)
-​
-You can learn more about customizing your templates and theme by reading the [BowTie Docs](https://bowtie.io/docs) , as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-​
+The San Diego International Airport (SAN) is the closest airport to UC San Diego and SDSC.
+
+For driving directions see [the visitors page on the SDSC website](http://www.sdsc.edu/about_sdsc/visitor_info.html)
+
+#### Transportation Options
+
+For cab or shuttle Pick-up/Drop-off:
+
+* [10100 Hopkins Drive, La Jolla, CA 92093](https://www.google.com/maps?q=San+Diego+Supercomputer+Center,+10100+Hopkins+Drive,+La+Jolla,+CA&hl=en&sll=32.824552,-117.108978&sspn=0.439681,0.874786&oq=san&hq=San+Diego+Supercomputer+Center,+10100+Hopkins+Drive,+La+Jolla,+CA&t=m&z=14)
+
+SDSC is located just south of the RIMAC Arena.
+
+A taxi or transportation service can be used from the airport.
+Helpful link for taxi service in San Diego:
+
+* [SD Taxi Cab Services](http://www.taxifarefinder.com/)
+* Yellow Cab: (619) 444-4444
+* Orange Cab: (619) 223-5555
+* SD Taxi Service: (619) 342-6494
+* San Diego Cab: (619) 226-8294
+* [Terramoto Transportation Downtown San Diego](http://www.terramoto.net/) - 619.269.7397
+* [Torrey Pines Limo](http://www.torreypineslimo.com/) - 858.997.6866
+* [Super Shuttle](http://www.supershuttle.com/Locations/SANAirportShuttleSanDiego.aspx) - 800.974.8885
