@@ -1,8 +1,5 @@
 ---
 location: apply
-head:
-  title: Apply to be a speaker
-  subtitle: Make sure to include desired dates and topics.
 style:
   id: 'apply'
   class: ''
