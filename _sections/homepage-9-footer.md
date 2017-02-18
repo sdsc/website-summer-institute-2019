@@ -24,6 +24,8 @@ cta:
 ---
 
 <div class="col-sm-7">
+<h4 class="text-left">Connect</h4>
+{% include social-links.html %}
     <h4 class="text-left">Contact Us</h4>
   <span>
     <strong>Email</strong>
@@ -39,8 +41,6 @@ cta:
 </div>
 
 <div class="col-sm-5">
-<h4 class="text-left">Connect</h4>
-{% include social-links.html %}
 
 <h4 class="text-left">Address</h4>
 {% include widgets/visit-us.html %}
