@@ -22,9 +22,9 @@ style:
 
 cta:
   headline: ''
-  btnText: Learn More
+  btnText: Apply
   btnType: btn-transparent
-  btnLink: '/about/'
+  btnLink: '/apply/'
   subtext: null
 ---
 
