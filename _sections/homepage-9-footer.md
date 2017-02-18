@@ -25,7 +25,17 @@ cta:
 
 <div class="col-sm-7">
     <h4 class="text-left">Contact Us</h4>
-    {% include widgets/contact-form.html email="zonca@sdsc.edu"%}
+  <span>
+    <strong>Email</strong>
+    <br>
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </span>
+  <p>&nbsp;</p><br/>
+  <span>
+    <strong>Phone</strong>
+    <br>
+858-534-8321
+  </span>
 </div>
 
 <div class="col-sm-5">
