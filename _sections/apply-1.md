@@ -8,7 +8,7 @@ style:
   class: 'jumbotron bgclear'
   media:
     img:
-      url_path: /img/backgrounds/bowtie-donation-site.jpg
+      url_path: /img/backgrounds/GordonSummerInst2011_5138.jpg
       pattern: false
       parallax: false
       overlay: dark
