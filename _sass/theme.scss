@@ -200,6 +200,9 @@ section {
   h1, h2 { color:$section-heading-font-color !important;}
   h3, h4, h5 { color:$section-subheading-font-color !important;}
 }
+section#signup {
+  padding: 20px !important;
+}
 section.alt {
   background-color: $section-alt-bg;
   body, p, li, ul, h1, h2, h3, h4, h5, strong { color:$section-alt-font-color !important;}
