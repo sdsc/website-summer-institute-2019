@@ -23,7 +23,7 @@ cta:
   headline: 'Interested in Speaking at an Event?'
   btnText: Apply
   btnType: btn-default
-  btnLink: /speak/
+  btnLink: /apply/
   subtext: null
 ---
 
