@@ -23,19 +23,15 @@ cta:
 
 ---
 
-<div class="col-sm-5">
+<div class="col-sm-7">
     <h4 class="text-left">Contact Us</h4>
-    {% include widgets/contact-form.html email="contact@example.com"%}
+    {% include widgets/contact-form.html email="sdscsi@sdsc.edu"%}
 </div>
 
 <div class="col-sm-5">
-{% include map.html %}
-</div>
-
-<div class="col-sm-2">
 <h4 class="text-left">Connect</h4>
 {% include social-links.html %}
 
-<h4 class="text-left">Visit Us</h4>
+<h4 class="text-left">Address</h4>
 {% include widgets/visit-us.html %}
 </div>

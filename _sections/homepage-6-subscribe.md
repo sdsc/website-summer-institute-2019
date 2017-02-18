@@ -1,8 +1,7 @@
 ---
 location: 'homepage'
 head:
-  title: 'Join Our Mailing List'
-  subtitle: "Pre-built forms you can connect to any mailing list software."
+  title: 'Signup for an email reminder'
 
 style:
   id: 'signup'
