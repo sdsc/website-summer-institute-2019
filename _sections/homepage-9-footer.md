@@ -32,7 +32,6 @@ cta:
     <br>
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </span>
-  <p>&nbsp;</p><br/>
   <span>
     <strong>Phone</strong>
     <br>
