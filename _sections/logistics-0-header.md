@@ -25,6 +25,4 @@ cta:
   subtext:
 ---
 
-# Logistics
-
 &nbsp;
