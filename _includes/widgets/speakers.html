@@ -8,7 +8,7 @@
     <img class="img-circle img profilepic" src="{% if member.avatar_path %}{{member.avatar_path}}{% else %}{{member.gravatar}}{% endif %}">
     <h4 class="name">{{member.name}}</h4>
     {% if member.company %}<p>{{member.company}} | {% if member.jobTitle %}{{member.jobTitle}}{% endif %}</p>{% endif %}
-    {% if member.bio %}<p class="area small text-left">{{member.bio}}</p>{% endif %}
+    {% if member.bio %}<p style="text-align:left !important;" class="area small">{{member.bio}}</p>{% endif %}
     <div class="row social-media">
       {% if member.linkedin %}<a href="//linkedin.com/{{member.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a>{% endif %}
       {% if member.facebook %}<a href="//facebook.com/{{member.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a>{% endif %}
