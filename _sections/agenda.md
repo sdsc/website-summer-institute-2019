@@ -1,5 +1,5 @@
 ---
-location: instructors
+location: agenda
 head:
   title: SDSC Summer Institute Preliminary Agenda
 ---
