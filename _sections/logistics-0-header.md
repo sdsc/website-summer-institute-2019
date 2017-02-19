@@ -10,7 +10,7 @@ style:
       url_path: /img/backgrounds/sdsc_building.jpg
       pattern: false
       parallax: false
-      overlay: dark
+      overlay: false
       blur: false
     video:
       url_path:
