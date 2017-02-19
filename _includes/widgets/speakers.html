@@ -1,7 +1,7 @@
 <div class="row-90 text-center">
   <span class="row">
   {% for member in site.speakers %}
-  {% capture thecycle %}{% cycle 'speakers' :  '1', '2' %}{% endcapture %}
+  {% capture thecycle %}{% cycle 'speakers' :  '1', '2', '3' %}{% endcapture %}
   {% if thecycle == '1' and forloop.first == false %}</span>
     <span class="row">{% endif %}
   <column class="col-sm-4">
