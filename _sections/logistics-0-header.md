@@ -1,14 +1,13 @@
 ---
-location: apply
+location: 'logistics'
 head:
-  title: null
-  subtitle: null
+  title: 'Logistics'
 style:
   id: 'hero'
   class: 'jumbotron bgclear'
   media:
     img:
-      url_path: /img/backgrounds/attendees.jpg
+      url_path: /img/backgrounds/sdsc_building.jpg
       pattern: false
       parallax: false
       overlay: dark
@@ -18,16 +17,14 @@ style:
       type:
   tint_color: null
   font_color: '#fff'
-
 cta:
-  headline: null
-  btnText: null
-  btnType: null
-  btnLink: null
-  subtext: null
+  headline:
+  btnText:
+  btnType:
+  btnLink:
+  subtext:
 ---
 
-
-## Application to the SDSC Summer Institute 2017
+# Logistics
 
 &nbsp;
