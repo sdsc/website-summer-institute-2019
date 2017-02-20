@@ -18,7 +18,7 @@ style:
 
 cta:
   headline: 'Application form'
-  btnText: Apply
+  btnText: 'Fill the application form'
   btnType: btn-default
   btnLink: /apply/
   subtext: null
