@@ -1,6 +1,6 @@
 ---
 nameID: 'shantharam'
-name: "Manu Shantharam"
+name: "Manu Shantharam, Ph.D."
 avatar_path: '/img/shantharam.jpg'
 company: 'SDSC'
 jobTitle: 'Senior Computational Scientist'
