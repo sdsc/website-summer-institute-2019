@@ -23,7 +23,7 @@ San Diego Supercomputer Center (SDSC)
 10100 Hopkins Drive, La Jolla, CA 92093
 ```
 
-San Diego Supercomputer Center's Auditorium E-B212 located on the ground floor of SDSC's east entrance, located just off the driveway on Hopkins Dr, close to the Hopkins Parking Structure, Northeast end of UC San Diego campus.
+San Diego Supercomputer Center's Auditorium E-B212 located on the ground floor of SDSC's east entrance, just off the driveway on Hopkins Dr, close to the Hopkins Parking Structure, Northwest end of UC San Diego campus.
 * [Google maps exact location](https://www.google.com/maps/place/32%C2%B053'04.0%22N+117%C2%B014'20.9%22W/@32.884443,-117.2413197,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d32.884443!4d-117.239131)
 
 The San Diego International Airport (SAN) is the closest airport to UC San Diego and SDSC.
