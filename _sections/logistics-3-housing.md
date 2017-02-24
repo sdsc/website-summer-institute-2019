@@ -17,7 +17,7 @@ cta:
 
 #### Scholarship recipients: On-Campus Room & Board (R&B)
 
-Housing accommodations for R & B Scholarship participants is offered through UC San Diego Guest Housing. Check-in Sunday, July 31 after 4:00 pm. Check out Friday by 11:00 at the Village Conference Center. See website for check in location and details. Also, see additional map on right which identifies on campus points of interested housing including check-in.
+Housing accommodations for R & B Scholarship participants is offered through UC San Diego Guest Housing. Check-in Sunday, July 31 after 4:00 p.m. Check out Friday by 11:00 a.m. at the Village Conference Center. See website for check in location and details. Also, see additional map which identifies on campus points of interested housing including check-in.
 
 * [UC San Diego Guest Housing](http://conference.ucsd.edu/guesthousing/)
 * Guest Housing inquiries: guesthousing@ucsd.edu
@@ -34,7 +34,7 @@ UC San Diego Check Inn guests will stay at The Village at Torrey Pines, one of t
 * Guest Housing inquiries: guesthousing@ucsd.edu
 
 #### Local Hotels
-There are many hotel options surrounding UC San Diego and SDSC. The few listed below are located just off campus and may offer a university rate. Be sure to ask if a "UCSD Rate" is available during your stay. Extended list of hotels at SDSC Visitor page.
+There are many hotel options surrounding UC San Diego and SDSC. The few listed below are located just off campus and may offer a university rate. Be sure to ask if a "UCSD Rate" is available when contacting hotel. An extended list of hotels can be found on the SDSC Visitor page.
 
 * [Estancia La Jolla Hotel and Spa](http://estancialajolla.com/), La Jolla Cove
 * 9700 N. Torrey Pines Road, La Jolla, CA 92037
