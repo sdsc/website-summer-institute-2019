@@ -33,9 +33,9 @@ Audience is generally 50/60% Graduate students and the rest Postdocs, Research s
 
 ### Deadlines
 
-* Applications will be accepted: through Friday, May 6, 2016 Extended through Monday, May 9, 2016
-* Applicants will be notified of status by: Friday, May 27, 2016
-* Accepted applicants are asked to confirm attendance by registering no later than: Friday, June 10, 2016
+* Applications will be accepted: through Friday, May 5, 2017
+* Applicants will be notified of status by: Friday, May 19, 2017
+* Accepted applicants are asked to confirm attendance by registering no later than: Friday, June 9, 2017
 
 
 ### Room and board scholarships
