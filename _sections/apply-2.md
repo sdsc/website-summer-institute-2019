@@ -37,6 +37,9 @@ Audience is generally 50/60% Graduate students and the rest Postdocs, Research s
 * Applicants will be notified of status by: Friday, May 19, 2017
 * Accepted applicants are asked to confirm attendance by registering no later than: Friday, June 9, 2017
 
+### Code of conduct
+
+All attendees are required to agree with the [SDSC Summer Institute Code of Conduct](/coc/).
 
 ### Room and board scholarships
 

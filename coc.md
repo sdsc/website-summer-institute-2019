@@ -23,7 +23,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Attendees asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Andrea Zonca immediately. If Andrea is the cause of your concern, please see the [UC San Diego ombuds office](http://www.ombuds.ucsd.edu/).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Andrea Zonca or Susan Rathburn immediately. If Andrea or Susan are the cause of your concern, please see the [UC San Diego ombuds office](http://www.ombuds.ucsd.edu/).
 
 If a participant engages in harassing behavior, the Summer Institute organisers may take any action they deem appropriate, including warning the offender or expulsion from the Summer Institute with no refund.
 
