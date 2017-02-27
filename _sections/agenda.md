@@ -6,6 +6,8 @@ head:
 
 **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2017>
 
+[**PDF version of the agenda**](/img/docs/SDSCSummerInstitute2017Agenda.pdf)
+
 ## MONDAY, July 31 
 
 | Time | Title |
