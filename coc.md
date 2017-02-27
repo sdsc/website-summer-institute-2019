@@ -1,3 +1,15 @@
+---
+layout: page
+permalink: /coc/
+title: Code of Conduct
+subtitle:
+exclude_from_nav: true
+style:
+  stickyfooter: true
+comments:
+share:
+---
+
 ## SDSC Summer Institute Code of Conduct
 
 All SDSC Summer Insitute attendees are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all attendees to help ensuring a safe environment for everybody.
