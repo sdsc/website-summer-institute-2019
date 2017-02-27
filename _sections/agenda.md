@@ -4,6 +4,8 @@ head:
   title: SDSC Summer Institute Preliminary Agenda
 ---
 
+**Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2017>
+
 ## MONDAY, July 31 
 
 | Time | Title |
