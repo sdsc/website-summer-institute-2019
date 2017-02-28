@@ -30,6 +30,6 @@ cta:
 
 # SDSC Summer Institute 2017
 
-### One week of classes on all aspects of Supercomputing and Data Science to accelerate your path from Data to Discovery, 31 July - 4 August 2017, San Diego Supercomputer Center
+### One week of classes on all aspects of Supercomputing and Data Science to accelerate your path from Data to Discovery, July 31 -  August 4, 2017, San Diego Supercomputer Center
 
 &nbsp;
