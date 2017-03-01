@@ -1,3 +1,8 @@
+---
+layout: page
+exclude_from_nav: true
+---
+
 # High Performance Computing summer institute at UC San Diego
 
 Applications are open for the San Diego Supercomputer Summer Institute 2017 at UC San Diego
