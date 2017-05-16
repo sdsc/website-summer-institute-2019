@@ -19,7 +19,7 @@ cta:
 
 Housing accommodations for R & B Scholarship participants is offered through UC San Diego Guest Housing. Check-in Sunday, July 31 after 4:00 p.m. Check out Friday by 11:00 a.m. at the Village Conference Center. See website for check in location and details. Also, see additional map which identifies on campus points of interested housing including check-in.
 
-* [UC San Diego Guest Housing](http://conference.ucsd.edu/guesthousing/)
+* [UC San Diego Guest Housing](https://hdh.ucsd.edu/conferences/pages/GuestHousing.html)
 * Guest Housing inquiries: guesthousing@ucsd.edu
 
 Be sure to see [FAQ page](https://hdh.ucsd.edu/conferences/docs/FAQ-Guest-and-Check-Inn.pdf) for directions and further details.
