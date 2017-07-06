@@ -34,7 +34,7 @@ UC San Diego Check Inn guests will stay at The Village at Torrey Pines, one of t
 * Guest Housing inquiries: guesthousing@ucsd.edu
 
 #### Local Hotels
-There are many hotel options surrounding UC San Diego and SDSC. The few listed below are located just off campus and may offer a university rate. Be sure to ask if a "UCSD Rate" is available when contacting hotel. An extended list of hotels can be found on the SDSC Visitor page (http://www.sdsc.edu/about_sdsc/visitor_info.html).
+There are many hotel options surrounding UC San Diego and SDSC. The few listed below are located just off campus and may offer a university rate. Be sure to ask if a "UCSD Rate" is available when contacting hotel. An extended list of hotels can be found on the [SDSC Visitor page](http://www.sdsc.edu/about_sdsc/visitor_info.html).
 
 * [Estancia La Jolla Hotel and Spa](http://estancialajolla.com/), La Jolla Cove
 * 9700 N. Torrey Pines Road, La Jolla, CA 92037
