@@ -13,7 +13,7 @@ head:
 | Time | Title |
 | ---  | --- |
 | 8:00 – 8:30AM | Registration, Coffee |
-| 8:30 – 8:45 | **Welcome** Shawn Strande, Deputy Director, SDSC |
+| 8:30 – 8:45 | **Welcome** Michael Norman, Director, SDSC |
 | 8:45 – 9:30 | **Orientation** Andrea Zonca, Senior Computational Scientist, SDSC - Director of the Summer Institute |
 | 9:30 – 12:15 break 10:15-10:45 | **How to login to Comet and launch jobs** Mahidhar Tatineni, Director, User Services, SDSC |
 | 12:15 – 1:30 | Lunch at Café Ventanas |
