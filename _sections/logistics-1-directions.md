@@ -30,7 +30,7 @@ The San Diego International Airport (SAN) is the closest airport to UC San Diego
 
 For driving directions see [the visitors page on the SDSC website](http://www.sdsc.edu/about_sdsc/visitor_info.html)
 
-[*Download a **local Area** PDF map with housing, SDSC, parking, coffee, restaurants*](/img/SI_Map.pdf)
+[*Download a **Local Area Map** with housing, SDSC, parking, coffee, restaurants*](/img/SI_Map.pdf)
 
 #### Transportation Options
 
