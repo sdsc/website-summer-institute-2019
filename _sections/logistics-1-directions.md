@@ -51,3 +51,6 @@ Helpful link for taxi service in San Diego:
 * [Terramoto Transportation Downtown San Diego](http://www.terramoto.net/) - 619.269.7397
 * [Torrey Pines Limo](http://www.torreypineslimo.com/) - 858.997.6866
 * [Super Shuttle](http://www.supershuttle.com/Locations/SANAirportShuttleSanDiego.aspx) - 800.974.8885
+
+[Public Transportation surrounding UC San Diego](https://transportation.ucsd.edu/alternatives/transit/)
+
