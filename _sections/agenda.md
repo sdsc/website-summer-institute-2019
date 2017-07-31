@@ -4,10 +4,9 @@ head:
   title: SDSC Summer Institute Preliminary Agenda
 ---
 
-**Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2017>
-[**Collaborative note taking**](https://hackmd.io/GwVgxgLAHCEKYFo5gIwAYEQCYENgJzADMokAmInAdmCipQrCA===)
-
-[**PDF version of the agenda**](/img/docs/SDSCSummerInstitute2017Agenda.pdf)
+* **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2017>
+* [**Collaborative note taking**](https://hackmd.io/GwVgxgLAHCEKYFo5gIwAYEQCYENgJzADMokAmInAdmCipQrCA===)
+* [**PDF version of the agenda**](/img/docs/SDSCSummerInstitute2017Agenda.pdf)
 
 ## MONDAY, July 31 
 
