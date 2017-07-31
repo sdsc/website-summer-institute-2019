@@ -5,7 +5,7 @@ head:
 ---
 
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2017>
-* [**Collaborative note taking**](https://hackmd.io/GwVgxgLAHCEKYFo5gIwAYEQCYENgJzADMokAmInAdmCipQrCA===)
+* [**Collaborative note taking**](https://hackmd.io/GwVgxgLAHCEKYFo5gIwAYEQCYENgJzADMokAmInAdmCipQrCA===?both)
 * [**PDF version of the agenda**](/img/docs/SDSCSummerInstitute2017Agenda.pdf)
 
 ## MONDAY, July 31 
