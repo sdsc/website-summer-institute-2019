@@ -62,8 +62,8 @@ head:
 | ---  | --- |
 | 8:00 – 8:30 | Coffee |
 | 8:30 – 9:30 | **Introduction to Research Data Management Using Globus** Rick Wagner, Globus Professional Services Manager, Globus |
-| 9:30 – 10:30 | **Emerging Technologies in HPC** Pietro Cicotti, Senior Computational Scientist, SDSC |
-| 10:30 – 12:00 | **Lightning Rounds** |
-| 12:00 – 12:10 | **SeedMe: A Data Sharing Platform for the Research Community** Amit Chourasia, Senior Visualization Scientist, SDSC |
-| 12:10 – 12:15 | **Wrap up** |
+| 9:30 – 10:00 | **Emerging Technologies in HPC** Pietro Cicotti, Senior Computational Scientist, SDSC |
+| 10:00 – 10:10 | **SeedMe: A Data Sharing Platform for the Research Community** Amit Chourasia, Senior Visualization Scientist, SDSC |
+| 10:10 – 12:00 | **Lightning Rounds** |
+| 12:00 – 12:15 | **Wrap up** |
 | 12:15pm | **Adjourn** Thank you for attending we hope you enjoyed the week!_(To-go box lunches will be available)_ |
