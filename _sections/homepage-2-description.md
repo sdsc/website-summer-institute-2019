@@ -14,7 +14,7 @@ style:
 
 ---
 
-**Application process for the SDSC Summer Institute 2018 will open in February 2018, see below to subscribe to a email reminder**
+**Application process for the SDSC Summer Institute 2018 will open in February 2018, see below to subscribe to an email reminder**
 
 The San Diego Supercomputer Center Summer Institute is a week-long workshop held at the University of California, San Diego that focuses on a broad spectrum of introductory-to-intermediate topics in **High Performance Computing and Data Science**. The program is aimed at researchers in academia and industry, especially in domains not traditionally engaged in supercomputing, who have problems that cannot typically be solved using local computing resources. This year’s Summer Institute continues SDSC’s strategy of bringing **High Performance Computing to the Long Tail of Science**, i.e. providing resources to a larger number of modest-sized computational research projects that represent, in aggregate, a tremendous amount of scientific progress.
 
@@ -30,4 +30,4 @@ The program includes:
 Moreover the attendees will have many opportunities to **meet one-on-one with SDSC's experts** to discuss in detail the best techniques to solve their specific scientific problems.
 In order to benefit from the classes, the attendees are required to have familiarity with the UNIX/Linux shell. Basic programming skills (in any programming language) are strongly recommended.
 
-The registration fee is **$300** and includes coffee and lunch, it is due only after the application is accepted, see the [application page](/apply) for **deadlines** and information about **scholarships**.
+The registration fee is **$300** and includes coffee, snacks and lunch, it is due only after the application is accepted, see the [application page](/apply) for **deadlines** and information about **scholarships**.
