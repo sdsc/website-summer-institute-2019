@@ -6,7 +6,7 @@ email: sdscsi@sdsc.edu
 
 logourl: /img/logo.png # Your logo or avatar
 
-author: Your Name
+author: Andrea Zonca
 
 author_thumbnail: /img/user1.png # default author avatar
 
@@ -32,9 +32,6 @@ theme:
     flickr:                         # (e.g. 'groups/2772799@N24/')
     linkedin:                       # (e.g. 'company/linkedin')
     youtube:                        # (e.g. 'channel/UCovWO5keLOLcLu8WdO-ABJw')
-
-
-  disqus_id:   bowtieexample        # From your Disqus account (e.g. 'bowtieexample')
 
   addthis_id:                       # From your Add This account (e.g. 'ra-00000a0a00a00aaa')
 
