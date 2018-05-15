@@ -27,7 +27,7 @@ cta:
 
 Application period is NOW CLOSED to attend the SDSC Summer Institute 2018.
 
-The SDSC Summer Institute typically receives more than 100 applications each year and we will select approximately **45 candidates**. Applicants will be screened to make sure that they have the **necessary background** to benefit from the Summer Institute, but the main selection criterion is that the applicants have a **compelling need for the skills being taught** at the Summer Institute in their research or teaching. In addition we will try to reach the highest number of research institution in the United States, in particular those that have no access to local supercomputing resources and we will try to balance attendees from a diverse pool of scientific communities.
+The SDSC Summer Institute typically receives more than 100 applications each year and we will select approximately **45 candidates**. Applicants will be screened to make sure that they have the **necessary background** to benefit from the Summer Institute, but the main selection criterion is that the applicants have a **compelling need for the skills being taught** at the Summer Institute in their research or teaching. In addition we will try to reach the highest number of research institution in the United States, in particular those that have no access to local supercomputing resources and we will try to balance attendees from a diverse pool of scientific communities.  Summer Insitute Alumni are welcome to apply after 5 years.  
 
 Audience is generally 50/60% Graduate students and the rest Postdocs, Research staff at Universities and National labs, Professors, Researchers in Industry.
 
