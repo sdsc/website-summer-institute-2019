@@ -8,7 +8,7 @@ head:
 
 
 
-**ugust 6 - 10, 2018**
+**August 6 - 10, 2018**
 >Monday: 8:00am - 5:00pm
 >
 >Tuesday - Thursday: 8:30am - 5:00pm
