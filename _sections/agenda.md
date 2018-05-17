@@ -6,10 +6,10 @@ head:
 
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2018>
 
-Monday, August 6 - 10, 2018
-Monday: 8:00am - 5:00pm
-Tuesday - Thursday: 8:30am - 5:00pm
-Friday: 8:30am - Noon
+**Monday, August 6 - 10, 2018
+**Monday: 8:00am - 5:00pm
+**Tuesday - Thursday: 8:30am - 5:00pm
+**Friday: 8:30am - Noon
 
 **Social Activities**
 * Monday evening reception
