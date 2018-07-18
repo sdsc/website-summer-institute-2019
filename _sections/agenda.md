@@ -15,10 +15,7 @@ head:
 | 10:15 - 10:30 | break | |
 | 10:30 - 12PM | **Introduction to version control with `git` and Github** | **Advanced `git` & Github**, Andrea Zonca <br/> You should be already familiar with creating Pull Requests, merging and rebasing branches |
 | 12:15 – 1:30 | Lunch at Café Ventanas | |
-| 1:30 – 5:00 | **Understanding Comet filesystems** Manu Shantharam, Senior Computational Scientist, SDSC | |
-|             | **Understanding performance and obtaining hardware information** Bob Sinkovits | |
-|             | **Introduction to Science Gateways** Subhashini Sivagnanam, Scientific Computing Specialist, SDSC | |
-|             | **Virtual Cluster & Using containers (Singularity)** Trevor Cooper, High Performance Computing Systems Manager, SDSC | |
+| 1:30 – 5:00 | **Understanding Comet filesystems** Manu Shantharam, Senior Computational Scientist, SDSC <br/> **Understanding performance and obtaining hardware information** Bob Sinkovits <br/> **Introduction to Science Gateways** Subhashini Sivagnanam, Scientific Computing Specialist, SDSC <br/> **Virtual Cluster & Using containers (Singularity)** Trevor Cooper, High Performance Computing Systems Manager, SDSC | |
 | 5:30 – 8:30PM | **Reception on 15th floor at The Village** | |
 
 ## TUESDAY, August 7th
