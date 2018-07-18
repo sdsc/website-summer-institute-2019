@@ -54,7 +54,7 @@ head:
 | Time | Title |
 | ---  | --- |
 | 8:00 – 8:30 | Coffee |
-| 8:30 – 10 | **Introduction to Research Data Management Using Globus** Rick Wagner, Globus Professional Services Manager, Globus |
+| 8:30 – 10 | **Introduction to Research Data Management Using Globus** _Rick Wagner, Globus Professional Services Manager, Globus_ |
 | 10:15 - 11:45 | **SeedMe2: Creating data centric websites for researchers and research projects** <br/> _Amit Chourasia, Senior Visualization Scientist, SDSC_ <br/> Data is an integral part of scientific research. With a rapid growth in data collection and generation capability and an increasingly collaborative nature of research activities, data management and data sharing have become central and key to accomplishing research goals. Researchers today have variety of solutions at their disposal from local storage to Cloud based storage. However, most of these solutions focus on hierarchical file and folder organization. While such an organization is pervasively used and quite useful, it relegates information about the data such as description and collaborative notes about the data to external systems. This spread of information into different silos impedes the flow research activities.  In this tutorial, we will introduce and provide hands on experience with the NSF supported SeedMe2 platform, which provides a web-based data management and data sharing cyberinfrastructure. Attendees will learn how to setup and explore its capabilities and potential for practical use. |
 | 12:00 – 12:15 | **Wrap up** |
 | 12:15pm | **Adjourn** Thank you for attending we hope you enjoyed the week!_(To-go box lunches will be available)_ |
