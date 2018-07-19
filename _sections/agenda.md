@@ -11,7 +11,7 @@ head:
 | Time | **Track 1** _Auditorium_ | **Track 2** _Synthesis Center E-B143_ |
 | ---  | --- | --- |
 | 8:00 – 8:30AM | Registration, Coffee | |
-| 8:30 – 10:15| **Welcome** Michael Norman, Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **How to login to Comet and launch jobs** Andrea Zonca, Senior Computational Scientist, SDSC | |
+| 8:30 – 10:15| **Welcome** Michael Norman, Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **How to login to Comet and launch jobs** Mary Thomas, Computational Scientist, SDSC | |
 | 10:15 - 10:30 | break | |
 | 10:30 - 12PM | **Introduction to version control with `git` and Github** | **Advanced `git` & Github**, Andrea Zonca <br/> You should be already familiar with creating Pull Requests, merging and rebasing branches |
 | 12:15 – 1:30 | Lunch at Café Ventanas | |
