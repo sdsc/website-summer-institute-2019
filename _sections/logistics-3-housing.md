@@ -21,6 +21,7 @@ Housing accommodations for R & B Scholarship participants is offered through UC 
 
 * [UC San Diego Guest Housing](https://hdh.ucsd.edu/conferences/pages/GuestHousing.html)
 * Guest Housing inquiries: guesthousing@ucsd.edu
+* Check Inn: 2202 Scholars Drive North, La Jolla, 92093
 
 Be sure to see [FAQ page](https://hdh.ucsd.edu/conferences/docs/FAQ-Guest-and-Check-Inn.pdf) for directions and further details.
 
