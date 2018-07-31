@@ -8,19 +8,19 @@ head:
 
 ## MONDAY, August 6th
 
-| Time | **Track 1** _Auditorium_ | **Track 2** _Synthesis Center E-B143_ |
-| ---  | --- | --- |
-| 8:00 – 8:30AM | Registration, Coffee | |
-| 8:30 – 10:15| **Welcome** Michael Norman, Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **How to log on to Comet and launch jobs** Mary Thomas, Computational Scientist, SDSC | |
-| 10:15 - 10:30 | break | |
-| 10:30 - 12PM | **Introduction to version control with `git` and Github**, _Martin Kandes, Computational Scientist, SDSC_ | **Advanced `git` & Github**, Andrea Zonca <br/> You should be already familiar with creating Pull Requests, merging and rebasing branches |
-| 12:15 – 1:30 | Lunch at Café Ventanas | |
-| 1:30 – 2:15 | **Understanding Comet file systems** <br/>  _Manu Shantharam, Senior Computational Scientist, SDSC_ | |
-| 2:15 - 3:15 | **Understanding performance and obtaining hardware information**  <br/>  _Bob Sinkovits_ | |
-| 3:15 - 3:30 | break | |
-| 3:30 - 4 | **Introduction to Science Gateways**  <br/>  _Subhashini Sivagnanam, Senior Computational and Data Science Specialist, SDSC_ <br/> Science Gateways are community-designed web-based interfaces often designed specifically to support a particular type of scientific research and provide access to all kinds of cyberinfrastructure - data collections, instruments, supercomputers, and sensor streams. This talk will introduce science gateways and provide examples of prominent science gateways from various domain sciences. The talk will also cover resources available for building a new gateway including Science Gateways Community Institute (SGCI). | |
-| 4 - 5 | **Using Virtualization on Comet - Singularity Containers or Comet Virtual Cluster**  <br/>  _Trevor Cooper_, Senior HPC Applications Developer, SDSC |  |
-| 5:30 – 8:30PM | **Reception on 15th floor at The Village** | |
+| Time | _Auditorium_ |
+| ---  | --- |
+| 8:00 – 8:30AM | Registration, Coffee |
+| 8:30 – 10:15| **Welcome** Michael Norman, Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **How to log on to Comet and launch jobs** Mary Thomas, Computational Scientist, SDSC |
+| 10:15 - 10:30 | break |
+| 10:30 - 12PM | Parallel session: <br /> **Introduction to version control with `git` and Github**, _Martin Kandes, Computational Scientist, SDSC_ <br /> Introduction to `git` for beginners, create a repository on Github <br /> <br /> **Advanced `git` & Github**, Andrea Zonca <br/> split session in _Synthesis Center E-B143_ <br /> You should be already familiar with creating Pull Requests, merging and rebasing branches |
+| 12:15 – 1:30 | Lunch at Café Ventanas |
+| 1:30 – 2:15 | **Understanding Comet file systems** <br/>  _Manu Shantharam, Senior Computational Scientist, SDSC_ |
+| 2:15 - 3:15 | **Understanding performance and obtaining hardware information**  <br/>  _Bob Sinkovits_ |
+| 3:15 - 3:30 | break |
+| 3:30 - 4 | **Introduction to Science Gateways**  <br/>  _Subhashini Sivagnanam, Senior Computational and Data Science Specialist, SDSC_ <br/> Science Gateways are community-designed web-based interfaces often designed specifically to support a particular type of scientific research and provide access to all kinds of cyberinfrastructure - data collections, instruments, supercomputers, and sensor streams. This talk will introduce science gateways and provide examples of prominent science gateways from various domain sciences. The talk will also cover resources available for building a new gateway including Science Gateways Community Institute (SGCI). |
+| 4 - 5 | **Using Virtualization on Comet - Singularity Containers or Comet Virtual Cluster**  <br/>  _Trevor Cooper_, Senior HPC Applications Developer, SDSC |
+| 5:30 – 8:30PM | **Reception on 15th floor at The Village** |
 
 ## TUESDAY, August 7th
 
