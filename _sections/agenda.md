@@ -11,7 +11,7 @@ head:
 | Time | _Auditorium_ |
 | ---  | --- |
 | 8:00 – 8:30AM | Registration, Coffee |
-| 8:30 – 10:15| **Welcome** Michael Norman, Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **How to log on to Comet and launch jobs** Mary Thomas, Computational Scientist, SDSC |
+| 8:30 – 10:15| **Welcome** Michael Norman, Director, SDSC <br/> **Orientation & Introductions** Bob Sinkovits, Director of Scientific Computing Applications, SDSC - Director of the Summer Institute <br/> **How to log on to Comet and launch jobs** Mary Thomas, Computational Scientist, SDSC <br /> To help you get the most out of your week, this session covers the basics of accessing Comet; managing the user environment;  and compiling and running jobs. It is assumed that you have completed the [basic steps of logging onto Comet and testing your Unix skills before arriving in San Diego](https://github.com/sdsc/sdsc-summer-institute-2018/tree/master/0_preparation) |
 | 10:15 - 10:30 | break |
 | 10:30 - 12PM | Parallel session: <br /> **Introduction to version control with `git` and Github**, _Martin Kandes, Computational Scientist, SDSC_ <br /> Introduction to `git` for beginners, create a repository on Github <br /> <br /> **Advanced `git` & Github**, Andrea Zonca <br/> split session in _Synthesis Center E-B143_ <br /> You should be already familiar with creating Pull Requests, merging and rebasing branches |
 | 12:15 – 1:30 | Lunch at Café Ventanas |
