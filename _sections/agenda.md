@@ -5,6 +5,7 @@ head:
 ---
 
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2018>
+* Chat room: <https://gitter.im/sdsc-summer-institute-2018> (login with your Github account)
 
 ## MONDAY, August 6th
 
