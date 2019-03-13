@@ -24,19 +24,17 @@ cta:
 ---
 
 <div class="col-sm-7">
-<h4 class="text-left">Connect</h4>
-{% include social-links.html %}
+
+    <h4 class="text-left">Connect</h4>
+    {% include social-links.html %}
+
     <h4 class="text-left">Contact Us</h4>
-  <span>
-    <strong>Email</strong>
-    <br>
-    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-  </span>
-  <span>
-    <strong>Phone</strong>
-    <br>
-858-534-8321
-  </span>
+      <dl>
+        <dt>Email</dt>
+        <dd><a href="mailto:{{ site.email }}">{{ site.email }}</a></dd>
+        <dt>Phone</dt>
+        <dd>858-534-8321</dd>
+    </dl>
 </div>
 
 <div class="col-sm-5">
