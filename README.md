@@ -2,7 +2,7 @@
 
 To edit the content, go into the `_sections` folder, here direct link:
 
-https://github.com/sdsc/website-summer-institute-2018/tree/master/_sections
+https://github.com/sdsc/website-summer-institute-2019/tree/master/_sections
 
 click on any of the files, login with your Github account, edit, the syntax is Markdown, if you need details on how to create something specific, see example here:
 
