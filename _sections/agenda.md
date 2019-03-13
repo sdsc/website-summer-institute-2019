@@ -8,7 +8,7 @@ head:
 * **Lesson material repository for the 2018 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2019> (login with your Github account)
 
-## The preliminary agenda listed below is from 2018. We plan to use this as a starting point, but it will be subject to change.
+### The preliminary agenda listed below is from 2018. We plan to use this as a starting point, but it will be subject to change.
 
 ## MONDAY, August 6th
 
