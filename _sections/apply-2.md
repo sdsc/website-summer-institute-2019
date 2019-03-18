@@ -31,9 +31,9 @@ Audience is generally 50/60% Graduate students and the rest Postdocs, Research s
 
 ### Deadlines
 
-* Applications will be accepted: through Friday, May 4, 2019
-* Applicants will be notified of status by: Friday, May 18, 2019
-* Accepted applicants are asked to confirm attendance by registering no later than: Friday, June 15, 2019
+* Applications will be accepted: through Sunday, May 5, 2019
+* Applicants will be notified of status by: Friday, May 17, 2019
+* Accepted applicants are asked to confirm attendance by registering no later than: Friday, June 14, 2019
 
 ### Code of conduct
 
