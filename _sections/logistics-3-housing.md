@@ -17,7 +17,7 @@ cta:
 
 #### Scholarship recipients: On-Campus Room & Board (R&B)
 
-Housing accommodations for R & B Scholarship participants is offered through UC San Diego Guest Housing. Check-in Sunday, August 5 after 4:00 p.m. Check out Friday, August 10 by 1:00 p.m. at the Village Conference Center. See website for check in location and details. Also, see additional map above which identifies on campus points of interest, housing, and where to check-in.
+Housing accommodations for R & B Scholarship participants is offered through UC San Diego Guest Housing. Check-in Sunday, August 4 after 4:00 p.m. Check out Friday, August 9 by 1:00 p.m. at the Village Conference Center. See website for check in location and details. Also, see additional map above which identifies on campus points of interest, housing, and where to check-in.
 
 * [UC San Diego Guest Housing](https://hdh.ucsd.edu/conferences/pages/GuestHousing.html)
 * Guest Housing inquiries: guesthousing@ucsd.edu
@@ -27,9 +27,9 @@ Be sure to see [FAQ page](https://hdh.ucsd.edu/conferences/docs/FAQ-Guest-and-Ch
 
 #### UC San Diego Guest Housing
 
-UC San Diego Conference Services offers "Guest Housing" conveniently located and affordable on-campus housing to University guests and affiliates during the summer season.
+UC San Diego Conference Services offers "Guest Housing" conveniently located on-campus and affordable to University guests and affiliates during the summer season.
 
-UC San Diego Check Inn guests will stay at The Village at Torrey Pines, one of the Universitys newest communities and home to Transfer Students during the academic year. Located on the campus of UC San Diego just a few miles from La Jolla's famous beaches, shopping, and dining, the apartments feature modern amenities, contemporary décor, and are within easy walking distance of everything on campus. Explore The Village!
+UC San Diego guests will stay at The Village at Torrey Pines, one of the Universitys newest communities and home to Transfer Students during the academic year. Located on the campus of UC San Diego just a few miles from La Jolla's famous beaches, shopping, and dining, the apartments feature modern amenities, contemporary décor, and are within easy walking distance of everything on campus. Explore The Village!
 
 * [UC San Diego Guest Housing](http://conference.ucsd.edu/guesthousing/)
 * Guest Housing inquiries: guesthousing@ucsd.edu
