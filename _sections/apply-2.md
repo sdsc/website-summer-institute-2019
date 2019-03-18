@@ -20,7 +20,7 @@ cta:
   headline: 'Application form'
   btnText: 'Fill the application form'
   btnType: btn-default
-  btnLink: "https://www.eiseverywhere.com/ereg/index.php?eventid=318763"
+  btnLink: "https://www.eiseverywhere.com/ereg/newreg.php?eventid=413328&"
   subtext: null
 ---
 
