@@ -14,7 +14,7 @@ style:
 
 ---
 
-**Application process for the SDSC Summer Institute 2019 will open in March 2019**
+
 
 The San Diego Supercomputer Center Summer Institute is a week-long workshop held at the University of California, San Diego that focuses on a broad spectrum of introductory-to-intermediate topics in **High Performance Computing and Data Science**. The program is aimed at researchers in academia and industry, especially in domains not traditionally engaged in supercomputing, who have problems that cannot typically be solved using local computing resources. This year’s Summer Institute continues SDSC’s strategy of bringing **High Performance Computing to the Long Tail of Science**, i.e. providing resources to a larger number of modest-sized computational research projects that represent, in aggregate, a tremendous amount of scientific progress.
 
