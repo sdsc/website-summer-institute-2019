@@ -15,6 +15,6 @@ cta:
 
 ---
 
-### Applicants map
+## Applicants map
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~AndreaZonca/29.embed"></iframe>
