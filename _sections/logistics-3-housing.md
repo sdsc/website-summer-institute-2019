@@ -31,7 +31,7 @@ UC San Diego Conference Services offers "Guest Housing" conveniently located on-
 
 UC San Diego guests will stay at The Village at Torrey Pines, one of the Universitys newest communities and home to Transfer Students during the academic year. Located on the campus of UC San Diego just a few miles from La Jolla's famous beaches, shopping, and dining, the apartments feature modern amenities, contemporary décor, and are within easy walking distance of everything on campus. Explore The Village!
 
-* [UC San Diego Guest Housing](http://conference.ucsd.edu/guesthousing/)
+* [UC San Diego Guest Housing](https://hdh.ucsd.edu/conferences/pages/GuestHousing.html)
 * Guest Housing inquiries: guesthousing@ucsd.edu
 * Check Inn: 2202 Scholars Drive North, La Jolla, 92093
 
