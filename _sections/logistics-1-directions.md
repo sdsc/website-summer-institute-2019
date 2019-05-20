@@ -31,8 +31,8 @@ The San Diego International Airport (SAN) is the closest airport to UC San Diego
 For driving directions see [the visitors page on the SDSC website](http://www.sdsc.edu/about_sdsc/visitor_info.html)
 
 #### Visitor Parking: Parking permits are REQUIRED to park on UC San Diego Campus
-* Visiting UC faculty and staff who hold annual permits at their home campuses are eligible for up to 5 consecutive days of complimentary parking at UC San Diego. Visit for more details: (http://transportation.ucsd.edu/parking/visitor/reciprocity.html)
-* For non-UC visitors, please see more details here: (http://transportation.ucsd.edu/parking/visitor/conference.html). Purchase permits at a very reasonable rate.
+* Visiting UC faculty and staff who hold annual permits at their home campuses are eligible for up to 5 consecutive days of complimentary parking at UC San Diego. Visit for more details: [http://transportation.ucsd.edu/parking/visitor/reciprocity.html](http://transportation.ucsd.edu/parking/visitor/reciprocity.html).
+* For non-UC visitors, please see more details here: [http://transportation.ucsd.edu/parking/visitor/conference.html](http://transportation.ucsd.edu/parking/visitor/conference.html). Purchase permits at a very reasonable rate.
 * The most convenient parking location is the Hopkins parking structure located on Hopkins Dr and Voigt Dr, just south of SDSC.
 * *Parking legally is the attendee's responsibility. The penalty for an improperly parked car is at least $65 per day. We cannot be held responsible for citations issued for parking in an incorrect space or improperly displaying your permit.*
 
@@ -45,7 +45,7 @@ For cab or shuttle Pick-up/Drop-off:
 SDSC is located just south of the RIMAC Arena.
 
 Ride share: [Lyft](https://www.lyft.com/rider) or [Uber](https://www.uber.com/us/en/ride/)
-* Use *"San Diego Supercomputer Center"* as destination
+Use *"San Diego Supercomputer Center"* as destination
 
 A taxi or transportation service can be used from the airport.
 Helpful link for taxi service in San Diego:
