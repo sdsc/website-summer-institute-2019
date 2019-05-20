@@ -45,7 +45,7 @@ For cab or shuttle Pick-up/Drop-off:
 SDSC is located just south of the RIMAC Arena.
 
 Ride share: [Lyft](https://www.lyft.com/rider) or [Uber](https://www.uber.com/us/en/ride/)
-*Use "San Diego Supercomputer Center" as destination
+* Use *"San Diego Supercomputer Center"* as destination
 
 A taxi or transportation service can be used from the airport.
 Helpful link for taxi service in San Diego:
