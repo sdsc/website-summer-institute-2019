@@ -23,7 +23,7 @@ head:
 | 3:15 - 3:30 PM | break |
 | 3:30 - 4:00 PM | **Introduction to Science Gateways**  <br/>  _Subhashini Sivagnanam, Senior Computational and Data Science Research Specialist, SDSC_ <br/> Science Gateways are community-designed web-based interfaces often designed specifically to support a particular type of scientific research and provide access to all kinds of cyberinfrastructure - data collections, instruments, supercomputers, and sensor streams. This talk will introduce science gateways and provide examples of prominent science gateways from various domain sciences. The talk will also cover resources available for building a new gateway including Science Gateways Community Institute (SGCI). |
 | 4:00 - 5:30 PM | **An Introduction to Singularity: Containers for Scientific and High-Performance Computing**  <br/>  _Martin Kandes_,Computational & Data Science Research Specialist, SDSC |
-| 5:30 – 8:30PM | **Reception- The Bella Vista** <br>2880 Torrey Pines Scenic Drive, La Jolla, CA 92037 <br/> _A short walk off campus, Sweater or jacket recommended_ <br/>
+| 5:30 – 8:30PM | **Reception- The Bella Vista** <br>2880 Torrey Pines Scenic Drive, La Jolla, CA 92037 <br/> _A short walk off campus, Sweater or jacket recommended_ <br/> |
 
 ## TUESDAY, August 6th
 
