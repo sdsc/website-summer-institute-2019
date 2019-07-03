@@ -1,14 +1,14 @@
 ---
 location: agenda
 head:
-  title: SDSC Summer Institute Preliminary Agenda
+  title: SDSC Summer Institute Agenda
 ---
 
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * **Lesson material repository for the 2018 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2019> (login with your Github account)
 
-### <b><font color="#f03c15"><u>The preliminary agenda listed below is from 2018.</u> We plan to use this as a starting point, but it will be subject to change.</font></b>
+### <b><font color="#f03c15"></u> Agenda is subject to change.</font></b>
 
 ## MONDAY, August 5th
 
