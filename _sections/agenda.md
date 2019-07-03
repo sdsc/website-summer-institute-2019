@@ -8,9 +8,10 @@ head:
 * **Lesson material repository for the 2018 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2019> (login with your Github account)
 
-### <b><font color="#f03c15"> Agenda is subject to minor change. </font></b>
+### <b><font color="#f03c15"> Agenda is subject to minor changes. </font></b>
 
 ## MONDAY, August 5th
+
 | Time | _Auditorium_ |
 | --- | --- |
 |8:00 – 8:30 AM | Registration, Coffee |
