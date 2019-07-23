@@ -21,7 +21,7 @@ Housing accommodations for R & B Scholarship participants is offered through UC 
 
 * [UC San Diego Guest Housing](https://hdh.ucsd.edu/conferences/pages/GuestHousing.html)
 * Guest Housing inquiries: guesthousing@ucsd.edu
-* Check Inn: 2202 Scholars Drive North, La Jolla, 92093
+* Check-in at the Village ([Click to Open Location](https://goo.gl/maps/a41QB6j4eFkBcHUm9)): 2202 Scholars Drive North, La Jolla, 92093
 
 Be sure to see [FAQ page](https://hdh.ucsd.edu/conferences/docs/FAQ-Guest-and-Check-Inn.pdf) for directions and further details.
 
@@ -33,7 +33,7 @@ UC San Diego guests will stay at The Village at Torrey Pines, one of the Univers
 
 * [UC San Diego Guest Housing](https://hdh.ucsd.edu/conferences/pages/GuestHousing.html)
 * Guest Housing inquiries: guesthousing@ucsd.edu
-* Check Inn: 2202 Scholars Drive North, La Jolla, 92093
+* Check-in at the Village ([Click to Open Location](https://goo.gl/maps/a41QB6j4eFkBcHUm9)): 2202 Scholars Drive North, La Jolla, 92093
 
 #### Local Hotels
 There are many hotel options surrounding UC San Diego and SDSC. The few listed below are located just off campus and may offer a university rate. Be sure to ask if a "UCSD Rate" is available when contacting hotel. An extended list of hotels can be found on the [SDSC Visitor page](http://www.sdsc.edu/about_sdsc/visitor_info.html).
