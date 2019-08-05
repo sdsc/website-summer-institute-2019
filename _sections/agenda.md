@@ -5,7 +5,7 @@ head:
 ---
 
 * **Lesson material repository**: <https://github.com/sdsc/sdsc-summer-institute-2019>
-* **Lesson material repository for the 2018 edition**: <https://github.com/sdsc/sdsc-summer-institute-2019>
+* **Lesson material repository for the 2018 edition**: <https://github.com/sdsc/sdsc-summer-institute-2018>
 * Chat room: <https://gitter.im/sdsc-summer-institute-2019> (login with your Github account)
 
 ### <b><font color="#f03c15"> Agenda is subject to minor changes. </font></b>
